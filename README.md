@@ -1,3 +1,12 @@
+jQuery Sandbox is a collection of various jQuery prototypes and simple projects. These examples are intended for reference and demonstrate different jQuery functionalities that are frequently used. The repository includes sections on animations, selectors, DOM manipulation, event handling, form events, and AJAX.
+
+Features
+Animations: Fading, sliding, and custom animations.
+Selectors: DOM traversal and filtering.
+DOM Manipulation: Adding, removing, and changing elements and attributes.
+Event Handling: Handling clicks, hovers, key presses, and form events.
+AJAX: Basic usage and examples with APIs.
+
 
 ## Section 1: Intro
 
